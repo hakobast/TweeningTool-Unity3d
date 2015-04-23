@@ -1,4 +1,4 @@
-# TweeningTool---Unity3d
+# TweeningTool-Unity3d
 
 Plugin for tween animations written by C# for Unity3d.
 
