@@ -19,7 +19,7 @@ Ispector tweens (Allows to play tweens without creating scripts)
 
 Just download Unity3D package and extract to your Unity3d project
 
-
+https://github.com/haksist/TweeningTool---Unity3d/blob/master/Assets/CoolestTween.unitypackage
 
 
 
